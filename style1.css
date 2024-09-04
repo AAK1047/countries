@@ -1,0 +1,58 @@
+
+body.bg-dark {
+    background-color: #343a40;
+}
+
+
+.container-fluid {
+    margin-top: 50px;
+}
+
+
+.card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+#cimg img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+#cnin {
+    width: 50%;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    outline: none;
+}
+
+.btn-dark {
+    width: 40%;
+    background-color: #343a40;
+    border: none;
+    padding: 10px;
+    color: #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-dark:hover {
+    background-color: #23272b;
+}
+
+
+.list-group-item {
+    background-color: #f8f9fa;
+    border: none;
+    border-bottom: 1px solid #dee2e6;
+}
+
+
+h1.text-danger {
+    font-size: 50px;
+    margin-top: 20px;
+    color: #dc3545;
+}
